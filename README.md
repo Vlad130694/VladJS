@@ -1,2 +1,1 @@
-# VladJS
-JavaScript
+# mentoring-simple-webpack-starter

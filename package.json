@@ -1,0 +1,25 @@
+{
+  "name": "vladjs",
+  "version": "1.0.0",
+  "description": "kk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad130694/VladJS.git"
+  },
+  "keywords": [
+    "kkk"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad130694/VladJS/issues"
+  },
+  "homepage": "https://github.com/Vlad130694/VladJS#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
